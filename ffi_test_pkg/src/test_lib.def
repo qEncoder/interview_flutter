@@ -1,0 +1,3 @@
+LIBRARY   test_lib
+EXPORTS
+    dataRead
